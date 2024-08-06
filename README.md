@@ -1,14 +1,15 @@
 # JSON + Lista Todo
 
 ## 📝 Descrizione
-Questo progetto rappresenta un esempio come manipolare elementi del DOM.
+Questo progetto rappresenta una lista delle cose da fare che salva tutto il contenuto inserito su un server locale.
+<br>Permette di aggiungere, togliere e completare le cose inserite.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
 - Tailwind CSS
 - JavaScript
-    - *Manipolazione del DOM*
-        - *addEventListener, getElementById, querySelector, querySelectorAll, arrow Function, forEach, setTimeout, createElement, contains, add, append, remove*
+    - *JSON e Local server*
+        - *getElementById, createElement, fetch, json, forEach, appendChild, stringify, onclick, toggle, trim, onclick, onload, add, remove*
   
 ## 📥 Istruzioni per l'installazione
 
@@ -34,7 +35,7 @@ Questo progetto rappresenta un esempio come manipolare elementi del DOM.
 <br>✅ Ottimo! Il progetto è stato copiato.</br>
 
 ## 🖱️ Istruzioni per l'uso
-Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
+Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button) e la tastiera.
 <br>Il gioco consiste nel scegliere il colore numerato e depositarlo sopra il quadrato con il numero identico del colore scelto</br>
 Una volta messi tutti i colori a loro posto il livello sarà completato.
 1. Selezionare livello (Barra Levels a sinistra
