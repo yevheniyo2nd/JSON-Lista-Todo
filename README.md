@@ -2,7 +2,7 @@
 
 ## 📝 Descrizione
 Questo progetto rappresenta una lista delle cose da fare che salva tutto il contenuto inserito su un server locale.
-<br>Permette di aggiungere, togliere e completare le cose inserite.</br>
+<br>Progetto permette di aggiungere, togliere e completare le cose inserite.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
@@ -36,8 +36,8 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
 
 ## 🖱️ Istruzioni per l'uso
 Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button) e la tastiera.
-<br>Il gioco consiste nel scegliere il colore numerato e depositarlo sopra il quadrato con il numero identico del colore scelto</br>
-Una volta messi tutti i colori a loro posto il livello sarà completato.
-1. Selezionare livello (Barra Levels a sinistra
-2. Selezionare il colore (Barra Colors a destra)
-3. Mettere il colore sul panello (Panello Game al centro)
+
+1. Scrivere la cosa da fare all interno della finestrina in alto
+2. Premere pulsante Add per aggiungere il contenuto
+3. Premere (LMB - Left mouse button) sul contenuto per complottarlo
+4. Premere (LMB - Left mouse button) sul X per eliminare il contenuto
