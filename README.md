@@ -6,7 +6,7 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
 
 ## 🔧 Tecnologie utilizzate
 - HTML
-- Tailwind CSS
+- CSS
 - JavaScript
     - *JSON e Local server*
         - *getElementById, createElement, fetch, json, forEach, appendChild, stringify, onclick, toggle, trim, onclick, onload, add, remove*
