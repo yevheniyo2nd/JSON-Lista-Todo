@@ -20,7 +20,7 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
   4. Fare clic con il tasto `RMB - Right mouse button` sulla cartella ZIP e selezionare `Estrarre tutto`.
   5. Scegliere il percorso dove si desidera estrarre il contenuto (di default i contenuti verranno estratti dove attualmente si trova la cartella ZIP).
   6. Premere `Estrarre`.
-  7. Copiare il percorso della cartella creata facendo clic con il tasto `RMB - Right mouse button` sulla cartella e scegliere `Copia percorso`.
+  7. Copiare il percorso della cartella dell progetto facendo clic con il tasto `RMB - Right mouse button` sulla cartella e scegliere `Copia percorso`.
   8. Aprire il prompt dei comandi:
       - **Per Windows**: Premere `Win + R` e digitare `cmd`.
       - **Per macOS**: Aprire il Terminale (puoi trovarlo in `Applicazioni` > `Utility` > `Terminale` o cercarlo con `Spotlight`.
