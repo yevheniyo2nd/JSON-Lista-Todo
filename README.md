@@ -47,7 +47,7 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
 <br>✅ Ottimo! Il progetto è stato copiato e il server locale è stato avviato</br>
 
 ## 🖱️ Istruzioni per l'uso
-Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button) e la tastiera.
+Tutto il progetto è manipolabile con il Mouse `LMB - Left mouse button` e la `tastiera`.
 
 1. Scrivere la cosa da fare all interno della finestrina in alto
 2. Premere pulsante Add per aggiungere il contenuto
