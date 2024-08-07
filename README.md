@@ -28,9 +28,9 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
   9. Spostarsi nella cartella creata con il comando `cd "percorso cartella"`.
   10. Verificare la posizione corrente con il comando `dir` (`ls` su `macOS` e `Linux`).
   11. Se si è nella cartella desiderata, eseguire il comando `git clone "HTTPS link from GitHub"`.
-  12. Eseguire il comando  `npm install json-server` per installare json-server
+  12. Eseguire il comando  `npm install json-server` per installare json-server.
   13. Eseguire il comando `npm run server` per avviare il server locale.
-  <br>✅ Ottimo! Il progetto è stato copiato e il server locale è stato avviato</br>
+  <br>✅ Ottimo! il server locale è stato avviato, ora si possono usare i contenuti scaricati.</br>
 
 ### :small_blue_diamond: Metodo N2: Copiare il progetto attraverso HTTPS
 1. Creare una nuova cartella.
@@ -42,14 +42,14 @@ Questo progetto rappresenta una lista delle cose da fare che salva tutto il cont
 4. Spostarsi nella cartella creata con il comando `cd "percorso cartella"`.
 5. Verificare la posizione corrente con il comando `dir` (`ls` su `macOS` e `Linux`).
 6. Se si è nella cartella desiderata, eseguire il comando `git clone "HTTPS link from GitHub"`.
-7. Eseguire il comando  `npm install json-server` per installare json-server
+7. Eseguire il comando  `npm install json-server` per installare json-server.
 8. Eseguire il comando `npm run server` per avviare il server locale.
-<br>✅ Ottimo! Il progetto è stato copiato e il server locale è stato avviato</br>
+<br>✅ Ottimo! Il progetto è stato copiato e il server locale è stato avviato.</br>
 
 ## 🖱️ Istruzioni per l'uso
 Tutto il progetto è manipolabile con il Mouse `LMB - Left mouse button` e la `tastiera`.
 
-1. Scrivere la cosa da fare all interno della finestrina in alto
-2. Premere pulsante Add per aggiungere il contenuto
-3. Premere (LMB - Left mouse button) sul contenuto per complottarlo
-4. Premere (LMB - Left mouse button) sul X per eliminare il contenuto
+1. Scrivere la cosa da fare all interno della finestrina in alto.
+2. Premere pulsante Add per aggiungere il contenuto.
+3. Premere (LMB - Left mouse button) sul contenuto per complottarlo.
+4. Premere (LMB - Left mouse button) sul X per eliminare il contenuto.
